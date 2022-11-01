@@ -9,7 +9,7 @@ Like with project one, the Unit 2 project is a chance to build a project that yo
 
 You will be working individually for this project, but we will offer office hours and support via the issue queue throughout the project.
 
-For this project, you **must** submit your idea to your squad leader in the form of a [project proposal](#pre-project-deliverable-required) by **Thisday November 3rd 9am** and the Final Product is due **Thursday November 10th 9am** at which time each student will present their project for ~10 minutes.
+For this project, you **must** submit your idea to your squad leader in the form of a [project proposal](#pre-project-deliverable-required) by **Thursday November 3rd 9am** and the Final Product is due **Thursday November 10th 9am** at which time each student will present their project for ~10 minutes.
 
 ## Requirements
 
