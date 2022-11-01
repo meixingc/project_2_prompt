@@ -111,13 +111,11 @@ While you must incorporate data from an API, you are **not required** to use any
 
 The purpose of this project is for you to show us and future employers what you're capable of, so we want as much of the project to be your own, independent work as possible. 
 
-Therefore, each student will be given 6 (six) tokens to ask for help. Each token will give you 20 minutes of one-on-one consultation time with an instructor. 
-
-Tokens are redeemable during office hours or as determined by your Squad Lead outside of those hours. Tokens cannot be transferred between students - there is no black market for tokens.
+As with Project 1, you will be required to present your problem along with solutions and resources that you have tried.
 
 **You should use this time to ask for constructive feedback or recommendations on an approach you're taking in your code or application's architecture.  Come prepared with specific questions.**
 
-An instructor will be assigned to each engineer and will check in with you briefly every morning (whether via Slack or on Zoom). The purpose of these check-ins is NOT to discuss technical questions, but to answer questions about workflow and get a status checkin.
+"This thing is not working and I dont know why" is not an appropriate way to begin an instructor meeting!
 
 #### Github Issues
 
