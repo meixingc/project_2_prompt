@@ -71,7 +71,7 @@ We will determine whether or not you've met the requirements using the following
 
 ## Pre-Project Deliverable (Required) 
 
-You must make a proposal and submit it to your squad leader by Tuesday 8/17 at 9 am ET via [Github Issue](../../issues/new/choose).  Your squad leader will review and approve your proposal or meet with you to refine the scope.  Your proposal **must** include:
+You must make a proposal and submit it to your squad leader by Thursday 11/3 at 9 am ET.  Your squad leader will review and approve your proposal or meet with you to refine the scope.  Your proposal **must** include:
 
 - A **description of the project** you'll be building with the objective described in non-technical language.
 - Digitally created **wireframes** outlining the key views within your app.
@@ -159,4 +159,4 @@ Review your progress daily.  Make sure to take time at the end of each day to re
 
 ## A Note on Plagiarism
 
-Take a moment to re-familiarize yourself with the [plagiarism policy](https://git.generalassemb.ly/sei-712/administrative/blob/master/plagiarism.md), specifically on using work you find online and on work you do with other students.
+Take a moment to re-familiarize yourself with the plagiarism policy, specifically on using work you find online and on work you do with other students.
