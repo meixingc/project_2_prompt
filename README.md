@@ -23,6 +23,7 @@ We'll be evaluating your projects against the following **hard** requirements:
 6. You have used git for version control throughout the project.
 7. At least 2 routes and links using the React Router.
 8. Use flexbox or CSS grid for layout and not floats.  
+9. Title, Content, and FavIcon in your index.html must reflect your project
 
 ### Requirements Criteria
 
