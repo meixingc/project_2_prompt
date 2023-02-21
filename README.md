@@ -1,4 +1,4 @@
-## SEI 123
+## SEIR 123
 
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: React
@@ -9,7 +9,7 @@ Like with project one, the Unit 2 project is a chance to build a project that yo
 
 You will be working individually for this project, but we will offer office hours and support via the issue queue throughout the project.
 
-For this project, you **must** submit your idea to your squad leader in the form of a [project proposal](#pre-project-deliverable-required) by **Thursday November 3rd 9am** and the Final Product is due **Thursday November 10th 9am** at which time each student will present their project for ~10 minutes.
+For this project, you **must** submit your idea to your squad leader in the form of a [project proposal](#pre-project-deliverable-required) by **Friday February 24th, 9am** and the Final Product is due **Friday March 3rd 9am** at which time each student will present their project for ~10 minutes.
 
 ## Requirements
 
@@ -72,7 +72,7 @@ We will determine whether or not you've met the requirements using the following
 
 ## Pre-Project Deliverable (Required) 
 
-You must make a proposal and submit it to your squad leader by Thursday 11/3 at 9 am ET.  Your squad leader will review and approve your proposal or meet with you to refine the scope.  Your proposal **must** include:
+You must make a proposal and submit it to your squad leader by Friday 2/24 at 9 am ET.  Your squad leader will review and approve your proposal or meet with you to refine the scope.  Your proposal **must** include:
 
 - A **description of the project** you'll be building with the objective described in non-technical language.
 - Digitally created **wireframes** outlining the key views within your app.
@@ -118,21 +118,7 @@ As with Project 1, you will be required to present your problem along with solut
 
 "This thing is not working and I dont know why" is not an appropriate way to begin an instructor meeting!
 
-#### Github Issues
 
-We strongly encourage you to file a Github issue in this repository prior to using your tokens. **Learning to communicate effectively about issues in your code essential skill as a developer.**
-
-[Open an Issue](../../issues/new?assignees=&labels=bug&template=project-troubleshooting-request.md&title=YOUR+NAME%2C+DESCRIPTION+OF+ISSUE) by clicking the Issues tab in this repository, and then click the green `New issue` button.  Give your issue a descriptive title, answer the questions in the issue body as best as you can, then click `Submit new issue`.
-
-Once you've submitted your issue, an instructor may:
-
-- Ask for further clarification about the issue or what you've tried on your own.
-- Provide you with links to a probable solution for you to try.
-- Provide you with example code.
-- Give you guidance on solving your issue.
-- Recommend that you meet for a one on one to resolve your issue in person.
-
-Once your issue has been resolved, make sure you Close the issue.
 
 ## Approach
 
