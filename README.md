@@ -83,7 +83,7 @@ You must make a proposal and submit it to your squad leader by Friday 2/24 at 9 
 - If you plan on incorporating a component library, include a link in your proposal.
 
 > ### :triangular_flag_on_post: IMPORTANT:
-> **YOU ARE REQUIRED TO SHOW THAT YOU CAN RECEIVE THE DATA NEEDED TO SUPPORT YOUR PROPOSAL**. Try out your API in the browser or using [Postman](https://www.getpostman.com/) before you get too emotionally invested in your idea to make sure the API works the way you think it does.
+> **YOU ARE REQUIRED TO SHOW THAT YOU CAN RECEIVE THE DATA NEEDED TO SUPPORT YOUR PROPOSAL**. Try out your API in the browser or using Insomia  before you get too emotionally invested in your idea to make sure the API works the way you think it does.
 
 Use the **[Project Worksheet](/project-worksheet.md)** in this repository to prepare your proposal.  For additional guidance in completing the worksheet, refer to the [Project Proposal Example](project-proposal-example.md).
 
